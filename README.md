@@ -1,4 +1,4 @@
-# Doutora Janete
+# Doutora Janete v1.0
 
 Este é um sistema simples de gerenciamento de pacientes e consultas médicas desenvolvido em Python. O sistema permite cadastrar, alterar, excluir e listar pacientes e consultas.
 
